@@ -85,6 +85,11 @@ app.use("/listings",listingRouter);
 app.use("/listings/:id/reviews",reviewRouter);
 app.use("/",userRouter);
 
+app.get("/", (req, res) => {
+  res.redirect("/listings");
+});
+
+
 //if any of the above route isn't met also do not use "*" it gives error
 app.all('/*any',(req,res,next)=>{
     next(new ExpressError(404,"page not found"));
