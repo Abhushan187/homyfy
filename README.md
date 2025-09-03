@@ -5,26 +5,24 @@ It allows users to explore properties, view detailed information, read reviews, 
 
 ---
 
-### 🔗 Live Project  
+### 🔗 Checkout Live 
 [https://homyfy-hzho.onrender.com](https://homyfy-hzho.onrender.com)
 
 ---
 
-## 📸 Screenshots
-
-*(Replace `URL_TO_IMAGE` with actual image URLs after uploading to GitHub or Imgur.)*
+## 📸 Preview
 
 ### Explore Listings
-![Listings Page](URL_TO_IMAGE)
+![Listings Page](https://github.com/Abhushan187/Homyfy/blob/main/public/images/listing.jpg?raw=true)
 
 ### Property Details
-![Property Details](URL_TO_IMAGE)
+![Property Details](https://github.com/Abhushan187/Homyfy/blob/main/public/images/property.jpg?raw=true)
 
 ### Reviews Section
-![Reviews](URL_TO_IMAGE)
+![Reviews](https://github.com/Abhushan187/Homyfy/blob/main/public/images/review.jpg?raw=true)
 
 ### Location Map
-![Map](URL_TO_IMAGE)
+![Map](https://github.com/Abhushan187/Homyfy/blob/main/public/images/map.jpg?raw=true)
 
 ---
 
